@@ -1,0 +1,31 @@
+//global
+@import "./global/reset";
+@import "./global/variables";
+@import "./global/design-system";
+@import "./global/general";
+@import "./global/typography";
+@import "./global/utilities";
+@import "./global/mixins";
+@import "./global/icons";
+//components
+@import "./components/buttons";
+@import "./components/form";
+@import "./components/underline";
+@import "./components/homepage/banner";
+@import "./components/homepage/subject";
+@import "./components/homepage/feedback";
+@import "./components/ourTutors/cardTeacher";
+
+//layout
+@import "./layout/header";
+@import "./layout/footer";
+//page
+@import "./pages/login";
+@import "./pages/forgotPassword";
+@import "./pages/resetPassword";
+@import "./pages/register";
+@import "./pages/homepage";
+@import "./pages/ourTutor";
+@import "./pages/aboutUs";
+@import "./pages/profileStudent";
+@import "./pages/homeAdmin";
